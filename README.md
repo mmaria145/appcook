@@ -5,20 +5,20 @@ Esta aplicación será especialmente útil para aquellos que desean explorar nue
 # Modelo Realacional
 ## Adjuntar modelo
 **Receta**
-  - idReceta (clave primaria)
-  - nombreReceta
-  - instrucciones
-  - tiempoPreparacion
-  - dificultad
-  - calorias
+  - IdReceta (clave primaria)
+  - NombreReceta
+  - Instrucciones
+  - TiempoPreparacion
+  - Dificultad
+  - Calorias
 **Ingrediente**
-  - idIngrediente (clave primaria)
-  - nombreIngrediente
-  - categoria
+  - IdIngrediente (clave primaria)
+  - NombreIngrediente
+  - Categoria
 **Usuario**
-  - idUsuario (clave primaria)
-  - nombreUsuario
-  - correoElectronico
+  - IdUsuario (clave primaria)
+  - NombreUsuario
+  - CorreoElectronico
 # Desarrollo de propuesta 
 ## Escribir sobre la solucion a realizar
 **Búsqueda de Recetas:** Los usuarios podrán buscar recetas filtrando por ingredientes principales.
