@@ -21,6 +21,7 @@ Esta aplicación será especialmente útil para aquellos que desean explorar nue
   - CorreoElectronico
 # Desarrollo de propuesta 
 ## Escribir sobre la solucion a realizar
+Nuestra propuesta está relacionada para los fanáticos en la cocina y a los que están aprendiendo a cocinar, de esta forma puedan descubrir una gran variedad de recetas...
 **Búsqueda de Recetas:** Los usuarios podrán buscar recetas filtrando por ingredientes principales.
 **Generación de Recetas Aleatorias:** Opción para descubrir nuevas recetas de forma aleatoria.
 **Perfiles de Usuario:** Capacidad para que los usuarios creen perfiles donde puedan guardar sus recetas favoritas y preferencias de ingredientes.
