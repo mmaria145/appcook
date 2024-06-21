@@ -1,4 +1,4 @@
-# appcook
+# AppCook
 ## Escribir sobre el contexto de su solucion
 El proyecto **AppCook** tiene como objetivo principal proporcionar a los usuarios una plataforma donde puedan buscar y descubrir recetas de cocina basadas en un ingrediente principal.
 Esta aplicación será especialmente útil para aquellos que desean explorar nuevas formas de utilizar ingredientes específicos en sus comidas diarias.
