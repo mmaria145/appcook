@@ -25,7 +25,7 @@ AppCook es una aplicación diseñada para ayudar a los usuarios a generar receta
   - CorreoElectronico
 
 
-# SQL
+## SQL
 
 ![Imagen de WhatsApp 2024-06-21 a las 22 35 14_25c56afb](https://github.com/mmaria145/appcook/assets/168147895/69da81ea-3c30-4e9d-992c-2be7158887f8)
 
