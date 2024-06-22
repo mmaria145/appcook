@@ -26,7 +26,8 @@ AppCook es una aplicación diseñada para ayudar a los usuarios a generar receta
     
 # Desarrollo de propuesta 
 ## Escribir sobre la solucion a realizar
-Nuestra propuesta está relacionada para los fanáticos en la cocina y a los que están aprendiendo a cocinar, de esta forma puedan descubrir una gran variedad de recetas.
+Nuestra propuesta está relacionada para los fanáticos en la cocina y a los que están aprendiendo a cocinar, de esta forma puedan descubrir una gran variedad de recetas. La cual se
+va a desarrollar de la siguiente manera:
 
 **Búsqueda de Recetas:** Los usuarios podrán buscar recetas filtrando por ingredientes principales.
 
