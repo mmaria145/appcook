@@ -26,11 +26,19 @@ AppCook es una aplicación diseñada para ayudar a los usuarios a generar receta
 # Desarrollo de propuesta 
 ## Escribir sobre la solucion a realizar
 Nuestra propuesta está relacionada para los fanáticos en la cocina y a los que están aprendiendo a cocinar, de esta forma puedan descubrir una gran variedad de recetas.
+
 Búsqueda de Recetas: Los usuarios podrán buscar recetas filtrando por ingredientes principales.
+
 Generación de Recetas Aleatorias: Opción para descubrir nuevas recetas de forma aleatoria.
+
 Perfiles de Usuario: Capacidad para que los usuarios creen perfiles donde puedan guardar sus recetas favoritas y preferencias de ingredientes.
+
 Interacción Social: Posibilidad de compartir recetas con otros usuarios y recibir comentarios y valoraciones.
+
 Notificaciones Personalizadas: Alertas sobre nuevas recetas basadas en las preferencias de usuario.
+
 Ingreso de Ingredientes: Los usuarios pueden ingresar los ingredientes que tienen en casa a través de una interfaz simple y fácil de usar.
+
 Lista de Compras: La aplicación puede generar una lista de compras basada en las recetas seleccionadas, incluyendo solo los ingredientes que faltan.
+
 Modo Offline: Los usuarios pueden acceder a las recetas y listas de compras sin necesidad de estar conectados a Internet.
