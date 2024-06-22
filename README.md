@@ -13,10 +13,12 @@ AppCook es una aplicación diseñada para ayudar a los usuarios a generar receta
   - TiempoPreparacion
   - Dificultad
   - Calorias
+    
 **Ingrediente**
   - IdIngrediente (clave primaria)
   - NombreIngrediente
   - Categoria
+    
 **Usuario**
   - IdUsuario (clave primaria)
   - NombreUsuario
