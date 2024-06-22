@@ -23,7 +23,11 @@ AppCook es una aplicación diseñada para ayudar a los usuarios a generar receta
   - IdUsuario (clave primaria)
   - NombreUsuario
   - CorreoElectronico
-    
+
+
+#SQL
+![Imagen de WhatsApp 2024-06-21 a las 22 35 14_25c56afb](https://github.com/mmaria145/appcook/assets/168147895/69da81ea-3c30-4e9d-992c-2be7158887f8)
+
 # Desarrollo de propuesta 
 ## Escribir sobre la solucion a realizar
 Nuestra propuesta está relacionada para los fanáticos en la cocina y a los que están aprendiendo a cocinar, de esta forma puedan descubrir una gran variedad de recetas. La cual se
