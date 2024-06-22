@@ -35,9 +35,13 @@ Nuestra propuesta está relacionada para los fanáticos en la cocina y a los que
 **Lista de Compras:** La aplicación puede generar una lista de compras basada en las recetas seleccionadas, incluyendo solo los ingredientes que faltan.
 
 **Generación de Recetas Aleatorias:** Opción para descubrir nuevas recetas de forma aleatoria.
+
 **Perfiles de Usuario:** Capacidad para que los usuarios creen perfiles donde puedan guardar sus recetas favoritas y preferencias de ingredientes.
+
 **Interacción Social:** Posibilidad de compartir recetas con otros usuarios y recibir comentarios y valoraciones.
+
 **Notificaciones Personalizadas:** Alertas sobre nuevas recetas basadas en las preferencias de usuario.
+
 **Modo Offline:** Los usuarios pueden acceder a las recetas y listas de compras sin necesidad de estar conectados a Internet.
 
 
